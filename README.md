@@ -9,4 +9,4 @@ Skills: HTML / CSS / JAVASCRIPT ES6 / BOOTSTRAP / REACT JS / CMS
 
 ![Profile views](https://gpvc.arturio.dev/rhjoy-git)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rhjoy-git)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rhjoy-git&theme=dark&hide_border=true&background=3433EB&dates=FFFFFF&currStreakNum=24F335&ring=FFBD30&fire=FFBD30)](https://git.io/streak-stats)  
