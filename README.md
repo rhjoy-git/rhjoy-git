@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Rakibul Hasan Joy
 #### Web Developer
 
-Hi there! I am Rakibul Hasan Joy, a Web Developer with a diverse skill set that includes expertise in HTML, CSS, JavaScript ES6, Bootstrap, Tailwind CSS, ReactJS, and C#. I have completed a Diploma in Engineering in Computer Science & Technology, and I am currently studying Computer Science and Engineering at Northern University Bangladesh. I have a keen interest in Development Technology and aspire to become a Full Stack Web Developer. With my solid foundation in computer science and web development, I have the potential to excel in my goal of becoming a Full Stack Web Developer.
+Greetings!
+I'm Rakibul Hasan Joy, a skilled Full Stack Developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Laravel, Vite.js, MySQL, and Java. I am passionate about crafting visually appealing and user-friendly websites that deliver exceptional user experiences. I pride myself on staying current with the latest industry trends, writing clean and efficient code, and collaborating effectively with teams. I aim to always exceed expectations and deliver high-quality projects that meet clients' needs.
 
-Skills: HTML / CSS / JAVASCRIPT ES6 / BOOTSTRAP / TAILWIND / REACT JS / C# / MySql
+**Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT ES6 / REACT JS / PHP / LARAVEL / JAVA / MySql / WORDPRESS THEME CUSTOMIZATION **
