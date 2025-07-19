@@ -1,7 +1,12 @@
 ### Hi there 👋, I'm Rakibul Hasan Joy
-#### Full Stack Web Developer
-
+#### 💻 Full Stack Web Developer | Laravel & React Enthusiast
 Greetings!
-I'm Rakibul Hasan Joy, a skilled Full Stack Developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Laravel, Vite.js, MySQL, and Java. I am passionate about crafting visually appealing and user-friendly websites that deliver exceptional user experiences. I pride myself on staying current with the latest industry trends, writing clean and efficient code, and collaborating effectively with teams. I aim to always exceed expectations and deliver high-quality projects that meet clients' needs.
+I'm Rakibul Hasan Joy, a passionate and detail-oriented Full Stack Web Developer with hands-on experience in building responsive, scalable, and user-centric web applications. I specialize in technologies like Laravel, React.js, Tailwind CSS, and MySQL, with a strong foundation in both frontend and backend development.
 
-### Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript ES6, React JS, Vite.JS, PHP, Laravel, Java, MySQL, and WordPress theme customization
+I enjoy turning complex problems into elegant, user-friendly solutions. I’m committed to writing clean, maintainable code and always staying updated with the latest trends in web development. Whether working solo or as part of a team, I strive to deliver high-quality, production-ready solutions that exceed expectations.
+
+🚀 Tech Stack
+### Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript (ES6+), React.js, Vite.js
+### Backend: PHP, Laravel
+### Database: MySQL
+### Other Tools: Git, GitHub, WordPress Theme Customization
